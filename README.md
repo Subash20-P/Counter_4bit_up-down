@@ -1,15 +1,10 @@
 # Counter_4bit_up-down
 
 ## Aim:
-
 To write a verilog code for 4bit up/down counter and verify the functionality using Test bench. 
-
 ## Tools used for ASIC Flow:
-
-1.	nclaunch- Used for Functional Simulation
-   
+1.	nclaunch- Used for Functional Simulation  
 ## Design Information and Bock Diagram:
-
 	An up/down counter is a digital counter which can be set to count either from 0 to
 MAX_VALUE or MAX_VALUE to 0.
 
@@ -210,18 +205,18 @@ It contains statements that map logical library names to their physical director
 
 	Steps for simulation – Run the simulation command with simulator options
 
-![WhatsApp Image 2024-10-09 at 21 34 17_cbed600f](https://github.com/user-attachments/assets/4e65ae87-c154-4a0a-821b-b1c09ee65323)
+
 
 ## Fig 9: Design Browser window for simulation
 
-![WhatsApp Image 2024-10-09 at 23 24 11_add2e4ea](https://github.com/user-attachments/assets/c525a1d7-e79d-49ef-8223-4d8ad2bfb918)
+![WhatsApp Image 2024-10-09 at 21 34 17_cbed600f](https://github.com/user-attachments/assets/4e65ae87-c154-4a0a-821b-b1c09ee65323)
 
 ## Fig 10: Simulation Waveform Window
+![WhatsApp Image 2024-10-09 at 23 24 11_add2e4ea](https://github.com/user-attachments/assets/c525a1d7-e79d-49ef-8223-4d8ad2bfb918)
 
-![WhatsApp Image 2024-10-09 at 21 34 18_a17e3de5](https://github.com/user-attachments/assets/37d13dbe-8c29-435d-9b44-96fde5e0f41e)
 
 ## Fig 11: Simulation Waveform Window
-
+![WhatsApp Image 2024-10-09 at 21 34 18_a17e3de5](https://github.com/user-attachments/assets/37d13dbe-8c29-435d-9b44-96fde5e0f41e)
 ## RESULT
 
 The functionality of a 4bit_up-down asynchronous reset Counter was successfully verified using a test bench and simulated with the nclaunch tool.
